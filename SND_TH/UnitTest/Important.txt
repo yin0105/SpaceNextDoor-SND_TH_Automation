@@ -1,0 +1,7 @@
+﻿https://stag.spacenextdoor.com/ staging envorinment which is tested via this project.
+
+test cases - https://docs.google.com/spreadsheets/d/1FrTsmX18Fb2f0xVZg_dyvCe-1M32bpEQwfRwP4X6A9g/edit?usp=sharing 
+
+Epic links - https://docs.google.com/spreadsheets/d/1r1dlNxC2sqy61Xk9ZxI4wlZjTnk4HDoAaptdbkwYhDQ/edit?usp=sharing
+
+write tc-s - https://specflow.org/tools/online-gherkin-editor/
